@@ -40,7 +40,7 @@ export default function CardDataSection() {
           {projects.map((proj) => (
             <div key={proj.id} className="bg-white rounded-xl overflow-hidden border border-slate-100 shadow-sm hover:shadow-lg transition-all duration-300 flex flex-col justify-between">
               <div>
-                {/* Image Container */}
+            
                 <div className="h-40 sm:h-48 bg-slate-200 flex items-center justify-center overflow-hidden">
                   {proj.imageUrl ? (
                     <img 
