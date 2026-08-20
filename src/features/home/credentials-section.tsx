@@ -18,7 +18,7 @@ export default function CredentialsSection() {
     <section id="process" className="py-12 md:py-20 bg-white">
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         
-        {/* Personal Overview */}
+
         <div className="max-w-3xl mx-auto text-center mb-12 sm:mb-16">
           <span className="text-xs font-semibold text-pink-500 uppercase tracking-widest mb-2 block">
             About & Expertise
