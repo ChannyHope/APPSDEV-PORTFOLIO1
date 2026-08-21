@@ -19,7 +19,7 @@ export default function Footer() {
             </p>
           </div>
 
-          {/* Contact Details */}
+  
           <div className="space-y-2">
             <h3 className="text-xs font-semibold text-slate-200 uppercase tracking-wider mb-3">
               Contact Information
@@ -27,13 +27,13 @@ export default function Footer() {
             <p className="text-xs text-slate-400">
               <span className="text-pink-500 font-medium">Email:</span>{" "}
               <a href="mailto:your.email@example.com" className="hover:text-pink-400 transition-colors">
-                your.email@example.com
+                christianhopenunez12@gmail.com
               </a>
             </p>
             <p className="text-xs text-slate-400">
               <span className="text-pink-500 font-medium">Phone:</span>{" "}
               <a href="tel:+639000000000" className="hover:text-pink-400 transition-colors">
-                +63 900 000 0000
+                +63 9364800607
               </a>
             </p>
             <p className="text-xs text-slate-400">
@@ -41,7 +41,6 @@ export default function Footer() {
             </p>
           </div>
 
-          {/* Social Links */}
           <div>
             <h3 className="text-xs font-semibold text-slate-200 uppercase tracking-wider mb-3">
               Connect
@@ -60,7 +59,6 @@ export default function Footer() {
 
         </div>
 
-        {/* Copyright */}
         <div className="pt-6 text-center text-xs text-slate-500">
           Copyright © {new Date().getFullYear()} Christian Nunez. All rights reserved.
         </div>
