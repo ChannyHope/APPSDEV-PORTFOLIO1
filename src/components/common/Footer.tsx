@@ -3,10 +3,8 @@ export default function Footer() {
     <footer className="bg-slate-900 text-slate-400 py-10 border-t border-slate-800">
       <div className="max-w-6xl mx-auto px-6">
         
-        {/* Contact & Info Section */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 pb-8 border-b border-slate-800 text-center md:text-left">
           
-          {/* Brand & Brief Bio */}
           <div>
             <div className="flex items-center justify-center md:justify-start gap-2 mb-3">
               <span className="w-6 h-6 rounded-full bg-pink-500 text-white font-bold text-xs flex items-center justify-center">

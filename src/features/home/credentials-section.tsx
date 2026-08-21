@@ -32,7 +32,6 @@ export default function CredentialsSection() {
           </p>
         </div>
 
-        {/* Skills Grid */}
         <div className="grid md:grid-cols-3 gap-6 sm:gap-8">
           {skillCategories.map((category, index) => (
             <div 
